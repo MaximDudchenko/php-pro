@@ -1,1 +1,6 @@
 .idea/
+.htaccess
+/vendor/
+*.zip
+*.json
+*.lock
