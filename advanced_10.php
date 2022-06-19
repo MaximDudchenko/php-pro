@@ -52,4 +52,5 @@ class GooglePayPayment extends Payment
 function clientCode(Payment $payment)
 {
     $payment->setPayment();
+
 }
